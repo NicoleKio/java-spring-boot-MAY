@@ -2,4 +2,4 @@ spring:
   application:
     name: java-spring-boot-MAY
   profiles:
-    active: store1
+    active: hw-car1
